@@ -12,4 +12,4 @@ def model2 :
     ##print("Model3 code")
 
 
-print("Model 2 is the best model")
+print("Model 1 is the best model")
