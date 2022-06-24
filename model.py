@@ -10,3 +10,6 @@ def model2 :
 
 def model3 :
     print("Model3 code")
+
+
+print("Model 2 is the best model")
