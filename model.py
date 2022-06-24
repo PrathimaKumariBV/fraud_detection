@@ -8,8 +8,8 @@ def model1 :
 def model2 :
     print("Model2 code")
 
-def model3 :
-    print("Model3 code")
+##def model3 :
+    ##print("Model3 code")
 
 
 print("Model 2 is the best model")
